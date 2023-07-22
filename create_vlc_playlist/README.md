@@ -53,6 +53,10 @@ NVM: 0.39.3
    + Click to plus sign to add Finder (path `/System/Library/CoreServices/Finder.app`)
    + Click `Quit and Open` at alert popup
 
+4. Generate playlist for online course
+   + Right click on course folder `Quick Actions > Create VLC Playlist`
+   + Open `playlist.xspf` with VLC application
+
 ## References
 
 + [Mac OS X: Open in Visual Studio Code](https://gist.github.com/tonysneed/f9f09bfa28bcf98e8d8306f9b21f99e2?permalink_comment_id=3117692)
